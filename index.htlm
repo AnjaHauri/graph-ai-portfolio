@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generative AI for Work & Research – Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      background: #f9fafc;
+      color: #333;
+    }
+    header {
+      background: #1a1a40;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header img {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+    }
+    header h1 {
+      margin: 0.3rem 0;
+      font-size: 1.8rem;
+    }
+    nav {
+      background: #333;
+      padding: 0.5rem;
+      text-align: center;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    section h2 {
+      color: #1a1a40;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    .submissions ul {
+      list-style: square;
+    }
+    footer {
+      text-align: center;
+      background: #1a1a40;
+      color: #fff;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="Foto_unknown.jpg" alt="Profile photo">
+    <h1>My Portfolio</h1>
+    <p>Generative AI for Work & Research</p>
+  </header>
+
+  <nav>
+    <a href="#about-me">About Me</a>
+    <a href="#about-course">About the Course</a>
+    <a href="#submissions">My Weekly Submissions</a>
+  </nav>
+
+  <section id="about-me">
+    <h2>About Me</h2>
+    <p>
+      [Insert short bio here from your CV – for example: academic background, research interests,
+      and current work].  
+      This portfolio highlights my journey through the <em>Generative AI for Work & Research</em> course,
+      showcasing key learnings and weekly submissions.
+    </p>
+  </section>
+
+  <section id="about-course">
+    <h2>About the Course</h2>
+    <p>
+      The <strong>Generative AI for Work & Research</strong> course is an 
+      <em>8-week live cohort program</em> offered by GRAPH Courses, University of Geneva.  
+      It focuses on <strong>no-code AI tools for task automation, data analysis, and research workflows</strong>.
+    </p>
+    <h3>Key Modules</h3>
+    <ul>
+      <li>Websites, Documents & Presentations – using LLMs for papers, grants, and presentations</li>
+      <li>AI-Automated Data Analysis – quick analysis, dashboards, and automated reports</li>
+      <li>GenAI for Research & Text Analysis – literature reviews, classification, summarization</li>
+      <li>Custom GPTs and Chatbots – building specialized AI assistants</li>
+      <li>AI for Task Automation – workflows, monitoring, browser automation</li>
+      <li>GenAI for Communication & Outreach – figures, videos, visualization</li>
+      <li>Capstone Project & Showcase</li>
+    </ul>
+    <p>
+      Features include: weekly workshops, live support, peer collaboration, and a capstone project with
+      real-world AI applications.
+    </p>
+  </section>
+
+  <section id="submissions" class="submissions">
+    <h2>My Weekly Submissions</h2>
+    <ul>
+      <li>Week 1 – [Placeholder: Link to submission]</li>
+      <li>Week 2 – [Placeholder: Link to submission]</li>
+      <li>Week 3 – [Placeholder: Link to submission]</li>
+      <li>Week 4 – [Placeholder: Link to submission]</li>
+      <li>Week 5 – [Placeholder: Link to submission]</li>
+      <li>Week 6 – [Placeholder: Link to submission]</li>
+      <li>Week 7 – [Placeholder: Link to submission]</li>
+      <li>Week 8 – [Placeholder: Link to capstone project]</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 My Portfolio – Generative AI for Work & Research</p>
+  </footer>
+</body>
+</html>
